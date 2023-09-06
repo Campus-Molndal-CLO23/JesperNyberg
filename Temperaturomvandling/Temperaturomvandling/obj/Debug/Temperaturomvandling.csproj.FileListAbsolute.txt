@@ -1,7 +1,0 @@
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\bin\Debug\Temperaturomvandling.exe.config
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\bin\Debug\Temperaturomvandling.exe
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\bin\Debug\Temperaturomvandling.pdb
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\obj\Debug\Temperaturomvandling.csproj.AssemblyReference.cache
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\obj\Debug\Temperaturomvandling.csproj.CoreCompileInputs.cache
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\obj\Debug\Temperaturomvandling.exe
-C:\Users\Jesper Nyberg\source\repos\Temperaturomvandling\Temperaturomvandling\obj\Debug\Temperaturomvandling.pdb
