@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(234, 202, 133);
+    width: 100%;
+}
+
+/* Page Container */
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+/* Header */
+.pageHeader {
+    background-color: rgb(230, 179, 70);
+    width: 100%;
+}
+.header__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    padding: 2rem;
+}
+
+.pageHeader__img {
+    height: 15rem;
+    aspect-ratio: 1;
+}
+
+.pageHeader__heading {
+    margin-left: 2rem;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+/* Section */
+.section__container {
+    padding: 1rem;
+}
+
+.section__container * {
+    margin-bottom: 1rem;
+}
+
+.section__button {
+    padding: .5rem 1rem;
+}
+
+.section__quote {
+    background-color: rgb(229, 211, 172);
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+
+
