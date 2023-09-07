@@ -13,14 +13,9 @@ namespace Temperaturomvandling
 
         public static void Temperaturomvandling()
         {
-            PrintToConsole($"Celsius: {celsius} grader");
-            PrintToConsole($"Farenheit: {celsius.ConvertToFarenheit()} grader");
-            PrintToConsole($"Kelvin:  {celsius.ConvertToKelvin()} grader");
-        }
-
-        public static void PrintToConsole(string temperature)
-        {
-            Console.WriteLine(temperature);
+            $"Celsius: {celsius} grader".PrintToConsole();
+            $"Farenheit: {celsius.ConvertToFarenheit()} grader".PrintToConsole();
+            $"Kelvin:  {celsius.ConvertToKelvin()} grader".PrintToConsole();
         }
     }
 
@@ -34,6 +29,11 @@ namespace Temperaturomvandling
         public static double ConvertToKelvin(this int celsius)
         {
             return celsius + 273.15;
+        }
+
+        public static void PrintToConsole(this string temperature)
+        {
+            Console.WriteLine(temperature);
         }
     }
 }
