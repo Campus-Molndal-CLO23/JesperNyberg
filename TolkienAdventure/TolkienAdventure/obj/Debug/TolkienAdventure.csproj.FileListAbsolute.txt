@@ -1,0 +1,7 @@
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\bin\Debug\TolkienAdventure.exe.config
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\bin\Debug\TolkienAdventure.exe
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\bin\Debug\TolkienAdventure.pdb
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\obj\Debug\TolkienAdventure.csproj.AssemblyReference.cache
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\obj\Debug\TolkienAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\obj\Debug\TolkienAdventure.exe
+C:\Users\Jesper Nyberg\source\repos\TolkienAdventure\TolkienAdventure\obj\Debug\TolkienAdventure.pdb
